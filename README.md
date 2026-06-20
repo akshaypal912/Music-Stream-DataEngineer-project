@@ -17,9 +17,9 @@
 
 ## 📌 Project Overview
 
-This project demonstrates a **production-style Data Engineering workflow** — from raw CSV ingestion through Python-based data cleaning, cloud database loading on AWS EC2, and advanced SQL analytics on a music streaming dataset.
+This project demonstrates a **production-style Data Engineering workflow** , from raw CSV ingestion through Python-based data cleaning, cloud database loading on AWS EC2, and advanced SQL analytics on a music streaming dataset.
 
-> **Goal:** Build a complete data pipeline for a music streaming platform — ingest raw play data, clean it programmatically with Python & Pandas, load it into a cloud-hosted PostgreSQL database, and extract meaningful insights using SQL joins, aggregations, and window functions.
+> **Goal:** Build a complete data pipeline for a music streaming platform , ingest raw play data, clean it programmatically with Python & Pandas, load it into a cloud-hosted PostgreSQL database, and extract meaningful insights using SQL joins, aggregations, and window functions.
 
 ---
 
