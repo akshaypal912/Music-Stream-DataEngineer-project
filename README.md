@@ -340,7 +340,7 @@ psql -U postgres -d music_db -f sql_queries.sql
 - ☁️ **Cloud** — AWS EC2 instance setup and SSH access
 - 🗄️ **Database Design** — normalized schema with foreign keys and indexes , windows powershell
 - 🐍 **Python / Pandas** — automated 4-step cleaning pipeline with detailed logging
-- 🔍 **SQL** — JOINs, GROUP BY, aggregations, window functions 
+- 🔍 **SQL** - JOINs, GROUP BY, aggregations, window functions 
 - 📁 **Engineering Practices** — modular code, comments, Git version control
 
 ---
